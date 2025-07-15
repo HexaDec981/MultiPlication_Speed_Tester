@@ -21,7 +21,7 @@ A modern, visually appealing desktop app to practice and track multiplication sp
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/yourusername/multiplication-speed-tester.git
+   git clone https://github.com/HexaDec981/multiplication-speed-tester.git
    cd multiplication-speed-tester
    ```
 2. **Install dependencies:**
